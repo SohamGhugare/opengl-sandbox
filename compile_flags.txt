@@ -1,0 +1,2 @@
+-Iinclude
+-Iglfw-3.4/include
